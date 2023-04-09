@@ -7,7 +7,7 @@
 Bikeshare
 
 ### Description
-##Project Details:
+**Project Details:
 
 Bike Share Data
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
@@ -16,7 +16,7 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 In this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
-##The Datasets:
+**The Datasets:
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
@@ -35,7 +35,7 @@ Data for the first 10 rides in the new_york_city.csv file
 
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward.
 
-##Statistics Computed
+**Statistics Computed
 You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, you'll write code to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
